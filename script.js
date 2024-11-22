@@ -53,3 +53,13 @@ function renderStudents() {
         studentContainer.appendChild(studentDiv);
     });
 }
+
+
+// function generateRandomSixDigit() {
+//     // Generate a random number between 100000 and 999999
+//     let randomSixDigit = Math.floor(Math.random() * 900000) + 100000;
+//     return randomSixDigit;
+// }
+
+// let randomNumber = generateRandomSixDigit();
+// console.log(randomNumber);
